@@ -29,7 +29,6 @@ It’s built to satisfy real-world Flutter development skills: API integration, 
 - **Animated Adhkar Card & Slide Navigation**
 - **Tasbih Mode**
   - Large counter with vibration feedback
-  - Reset functionality
 - **Daily Reminder Notifications**
   - Push notification at a configurable time
 - **Offline Support**
