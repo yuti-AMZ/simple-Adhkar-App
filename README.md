@@ -1,4 +1,4 @@
-# 📘 Daily Adhkar Tracker
+# Daily Adhkar Tracker
 
 **Daily Adhkar Tracker** is a Flutter mobile app designed to help users track their daily Hadith recitation and adhkar. This app focuses on simplicity, beautiful UI, offline support, and Islamic lifestyle habit tracking.  
 
@@ -6,7 +6,7 @@ It’s built to satisfy real-world Flutter development skills: API integration, 
 
 ---
 
-## 🌟 Features
+## Features
 
 ### Core Features (Task Instructions)
 - **Fetch and display Hadith / Adhkar**
@@ -36,7 +36,7 @@ It’s built to satisfy real-world Flutter development skills: API integration, 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 lib/
 main.dart
@@ -66,7 +66,7 @@ Copy code
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 1. **Clone the repository**
 ```bash
