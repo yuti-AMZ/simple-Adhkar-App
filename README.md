@@ -20,7 +20,6 @@ It’s built to satisfy real-world Flutter development skills: API integration, 
 - **History Tracking**
   - Save and display all previous days
   - ListView with dates and counts
-  - Dark/Light mode compatible
 
 ### Additional Enhancements
 - **Splash Screen** with fade-in animation
