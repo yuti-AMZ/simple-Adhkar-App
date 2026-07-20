@@ -12,6 +12,7 @@ It’s built to satisfy real-world Flutter development skills: API integration, 
 - **Fetch and display Hadith / Adhkar**
   - Arabic + English translation
   - Online via HadithHub API
+  - Daily counter
   - Offline fallback using local JSON
 - **Daily Counter**
   - Increment your adhkar count
